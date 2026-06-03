@@ -75,8 +75,9 @@ Every repo here was built with AI. Zero hand-written code. But every vision is m
 
 ### 📊 Stats
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Llucs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Llucs&layout=compact&theme=tokyonight&langs_count=6"/>
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Llucs&theme=tokyonight"/>
+
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Llucs&theme=tokyonight"/>
 
 ---
 
