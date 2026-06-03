@@ -16,10 +16,51 @@ I build software by directing AI. I've never written a line of code myself — I
 
 ---
 
+### 🌟 My Story — How It All Began
+
+Since I was young, I watched famous developers build incredible projects and thought:
+> *"Wow, that's so cool. When I grow up, I want to learn to code and be like them."*
+
+I didn't know about AI back then. I had never used it.
+
+Then in **2023**, I saw an ad for **ChatGPT** and thought:
+> *"Wow, it knows so much. I can use it to help me — and to code for me too."*
+
+I tried it, saw how smart it was, and decided:
+> *"That's it. This is how I'll start. It's going to work for me."*
+
+ChatGPT built the structures and content of each file. I tested everything and posted it online. That's how **SpeedCool was born**.
+
+People told me:
+- *"ChatGPT is useless"*
+- *"It gets everything wrong"*
+- *"It makes things up"*
+
+But I **never gave up on it**.
+
+In **2024**, I found **Manus AI** — an autonomous AI that did everything by itself. That's when I started learning:
+- Watching the mistakes AIs made
+- Learning to **correct** them by saying things **before** they made errors
+- **Refining prompts** to guide them better
+
+Over time, I discovered and started using **multiple AIs together**:
+- **ChatGPT** — where it all began
+- **Manus AI** — autonomous task execution
+- **OpenCode** — code agent
+- **OpenHands** — assisted development
+- **Devin AI** — autonomous software engineer
+- **Aider** — AI pair programming
+
+I don't use just one — I **use them all together**, orchestrating each one for what it does best, while I act as the **conductor** — correcting paths, anticipating errors, and refining prompts.
+
+Every repo here was built with AI. Zero hand-written code. But every vision is mine.
+
+---
+
 ### 🏆 Featured Projects
 
 | Project | Stars | Description |
-|---|---|---|
+|---------|-------|-------------|
 | [⚡ SpeedCool Magisk Module](https://github.com/Llucs/SpeedCool-Magisk-Module) | **44** | Android performance booster — reduces RAM, increases fluidity |
 | [📱 odin4](https://github.com/Llucs/odin4) | **26** | Samsung device flash tool |
 | [🛸 Project Apex](https://github.com/Llucs/project_apex) | **7** | Galaxy AI features for Samsung devices |
@@ -42,8 +83,21 @@ I build software by directing AI. I've never written a line of code myself — I
 Idea → Describe to AI → AI codes → I refine → Ship 🚀
 ```
 
-I design the architecture, UI/UX, and features. AI handles the code.  
+I design the architecture, UI/UX, and features. AI handles the code.
 I may not write code, but I know exactly what I want to build.
+
+---
+
+### 🤖 AI Tools I Use
+
+| AI Tool | Role |
+|---------|------|
+| **ChatGPT** | The first. Where everything started. |
+| **Manus AI** | Autonomous task execution |
+| **OpenCode** | Code agent & automation |
+| **OpenHands** | Assisted development |
+| **Devin AI** | Autonomous software engineering |
+| **Aider** | AI pair programming |
 
 ---
 
@@ -59,7 +113,7 @@ I may not write code, but I know exactly what I want to build.
 <summary><b>📁 All Repositories</b></summary>
 
 | Category | Repos |
-|---|---|
+|----------|-------|
 | Android/Magisk | SpeedCool, odin4, Project Apex, UN1CA, OneUI Enhancer |
 | Apps | Chord, Nexus AI, Material3 Calculator, SamOTA |
 | AI/ML | LlucsBrain-SNN, Pyron, Nexus-RNN, AI Chat Vice |
@@ -74,6 +128,6 @@ I may not write code, but I know exactly what I want to build.
 <div align="center">
   <a href="https://github.com/Llucs"><img src="https://img.shields.io/badge/GitHub-Llucs-6C9EF8?style=flat-square&logo=github"/></a>
   <br><br>
-  <sub>⚡ Every repo here was built with AI — zero hand-written code.</sub>
+  <sub>⚡ Every repo here was built with AI — zero hand-written code. But every idea, every vision, every product — is mine.</sub>
 </div>
 </div>
