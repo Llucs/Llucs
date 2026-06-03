@@ -16,7 +16,8 @@ I build software by directing AI. I've never written a line of code myself — I
 
 ---
 
-### 🌟 My Story — How It All Began
+<details>
+<summary><b>🌟 My Story — How It All Began</b></summary>
 
 Since I was young, I watched famous developers build incredible projects and thought:
 > *"Wow, that's so cool. When I grow up, I want to learn to code and be like them."*
@@ -54,6 +55,8 @@ Over time, I discovered and started using **multiple AIs together**:
 I don't use just one — I **use them all together**, orchestrating each one for what it does best, while I act as the **conductor** — correcting paths, anticipating errors, and refining prompts.
 
 Every repo here was built with AI. Zero hand-written code. But every vision is mine.
+
+</details>
 
 ---
 
