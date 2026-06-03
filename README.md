@@ -1,78 +1,79 @@
 <div align="center">
 
-# 👋 Hello, I'm **Leandro Lucas**
+# 👋 Hey, I'm **Leandro Lucas**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=500&color=6C9EF8&background=0D111700&center=true&vCenter=true&width=500&lines=AI-Guided+Developer;Creator+of+SpeedCool+(44%E2%98%85);Creator+of+odin4+(26%E2%98%85);13yo+Maker+Dreaming+Big;I+never+write+a+single+line+of+code">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=500&color=6C9EF8&background=0D111700&center=true&vCenter=true&width=500&lines=AI-Guided+Developer;Creator+of+SpeedCool+(44%E2%98%85);Creator+of+odin4+(26%E2%98%85);13yo+Maker+Dreaming+Big;I+never+write+a+single+line+of+code">
-</picture>
+**`AI-Guided Developer | 13yo Creator | Dreaming Big`**
+
+<img src="https://komarev.com/ghpvc/?username=Llucs&color=6C9EF8&style=flat-square&label=Profile+Views" alt="Profile views"/>
 
 ---
 
 ### 🚀 About Me
 
-I'm a **13-year-old developer** from Brazil who builds software by directing AI.  
-I've never written a line of code myself — I guide AI agents to build the projects I dream of.
+I build software by directing AI. I've never written a line of code myself — I describe what I want, AI builds it, and I ship it.
 
-> *"You don't need to know how to code to be a developer. You need to know how to create."*
-
-</div>
+> *"You don't need to know how to code to create. You need a vision."*
 
 ---
 
 ### 🏆 Featured Projects
 
-| Project | ⭐ Stars | Description |
+| Project | Stars | Description |
 |---|---|---|
-| [⚡ SpeedCool Magisk Module](https://github.com/Llucs/SpeedCool-Magisk-Module) | **44** | Performance booster — reduces RAM usage & improves Android fluidity |
-| [📱 odin4](https://github.com/Llucs/odin4) | **26** | Flash tool for Samsung devices (C) |
+| [⚡ SpeedCool Magisk Module](https://github.com/Llucs/SpeedCool-Magisk-Module) | **44** | Android performance booster — reduces RAM, increases fluidity |
+| [📱 odin4](https://github.com/Llucs/odin4) | **26** | Samsung device flash tool |
 | [🛸 Project Apex](https://github.com/Llucs/project_apex) | **7** | Galaxy AI features for Samsung devices |
 | [🤖 Nexus AI](https://github.com/Llucs/Nexus-AI) | **1** | Open-source AI chat app for Android |
-| [🎵 Chord](https://github.com/Llucs/Chord) | - | Material 3 YouTube Music client for Android |
-| [🧠 LlucsBrain-SNN](https://github.com/Llucs/LlucsBrain-SNN) | - | Biological brain simulator (LIF & STDP) |
-| [🐍 Pyron](https://github.com/Llucs/pyron) | - | Autonomous AI Agent powered by OpenCode API |
+| [🎵 Chord](https://github.com/Llucs/Chord) | — | Material 3 YouTube Music client |
+| [🧠 LlucsBrain-SNN](https://github.com/Llucs/LlucsBrain-SNN) | — | Biological brain simulator (LIF & STDP) |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Llucs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Llucs&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Llucs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Llucs&layout=compact&theme=tokyonight&langs_count=6"/>
 
 ---
 
 ### 🧠 My Workflow
 
 ```
-Dream up an idea  →  Describe it to AI  →  AI writes the code  →  I review & refine  →  Ship it 🚀
+Idea → Describe to AI → AI codes → I refine → Ship 🚀
 ```
 
-I conceptualize everything — the architecture, the UI/UX, the features — and AI brings it to life.  
+I design the architecture, UI/UX, and features. AI handles the code.  
 I may not write code, but I know exactly what I want to build.
 
 ---
 
-### 💡 What I'm Working On
+### 🎯 Currently
 
-- 🔭 **SpeedCool** — Making it the #1 performance tool for Android
-- 🌱 Exploring **AI Agents** and autonomous development
-- 🎯 Building my dream project that will change how people see mobile performance
+- 🔭 Making **SpeedCool** the #1 Android performance tool
+- 🌱 Learning about **AI Agents** & autonomous dev
+- ⭐ Building my dream project
 
 ---
 
-### 📫 Let's Connect
+<details>
+<summary><b>📁 All Repositories</b></summary>
+
+| Category | Repos |
+|---|---|
+| Android/Magisk | SpeedCool, odin4, Project Apex, UN1CA, OneUI Enhancer |
+| Apps | Chord, Nexus AI, Material3 Calculator, SamOTA |
+| AI/ML | LlucsBrain-SNN, Pyron, Nexus-RNN, AI Chat Vice |
+| Linux | SpeedCool Linux, ZodinLinux, odin4gui, NextKernel |
+| Web | RootLab, Pixter, PeerCircle, F-Gisk |
+| Other | eron (OS), Llucs Hub (Roblox), ApkSource |
+
+</details>
+
+---
 
 <div align="center">
-  <a href="https://github.com/Llucs"><img src="https://img.shields.io/badge/GitHub-Llucs-6C9EF8?style=for-the-badge&logo=github"/></a>
+  <a href="https://github.com/Llucs"><img src="https://img.shields.io/badge/GitHub-Llucs-6C9EF8?style=flat-square&logo=github"/></a>
+  <br><br>
+  <sub>⚡ Every repo here was built with AI — zero hand-written code.</sub>
 </div>
-
----
-
-<div align="center">
-
-**⚡ Fun fact:** Every repo you see was built without me typing a single line of code — only AI instructions.  
-If I can do it, anyone can.
-
 </div>
